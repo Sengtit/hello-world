@@ -6,4 +6,4 @@ describe('NuxtLogo', () => {
     const wrapper = mount(NuxtLogo)
     expect(wrapper.vm).toBeTruthy()
   })
-})
+});
