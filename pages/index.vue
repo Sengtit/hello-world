@@ -1,6 +1,6 @@
 <template>
   <div class="here">
-      Tit Chnage code
+      Tit change code
   </div>
 </template>
 
