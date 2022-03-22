@@ -1,6 +1,6 @@
 <template>
   <div class="here">
-      Tit change code with auto deplay 6
+      Tit change code with auto deploy v7
   </div>
 </template>
 
